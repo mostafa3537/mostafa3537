@@ -15,7 +15,7 @@
  <h3 align="left">Languages and Tools:</h3>
 
  &nbsp;&nbsp;
- <div>
+ <div style=display: flex;>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
     width="40" height="40" />&nbsp;&nbsp;&nbsp;
 
