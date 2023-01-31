@@ -9,13 +9,13 @@
 
 - 👨🏻‍🎓 Linkedin  ✌️✌️   [LinkedIn](https://www.linkedin.com/in/mostafa-ahmed-elsayed/) . 
  
-- 💬 You can ask me about ❓: Reactjs  , Nodejs , Expressjs , Unit Testing , MongoDB and Mongoose  ,   Docker .
+- 💬 You can ask me about ❓: C# , ASP.Net , Nodejs , SQL-Server , Unit Testing , ElasticSearch, React  ,   Docker .
  
  
  <h3 align="left">Languages and Tools:</h3>
 
- &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"
-    width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+ &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
+    alt="react" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
     alt="nodejs" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
     alt="express" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
     alt="mongodb" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
